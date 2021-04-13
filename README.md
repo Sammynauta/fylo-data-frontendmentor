@@ -1,6 +1,6 @@
 
 <h1 align="center">
-FYLO DATA STORAFE
+FYLO DATA STORAGE
 </h1>
 
 <img src="/images/slide1.png">
